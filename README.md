@@ -4,3 +4,6 @@
 
 Произовльный php код БП
 https://github.com/fuckuppro/bitrix-workflow/blob/main/CodeActivity.php
+
+Пример выполнения команды
+https://github.com/fuckuppro/bitrix-workflow/blob/main/command_task.php
